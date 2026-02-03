@@ -26,8 +26,8 @@
 - Reverse
 ---
 ### Contact
-Email : k0d4m4.k0d4m4@gmail.com
-GitLab : sur demande
+- Email : k0d4m4.k0d4m4@gmail.com
+- GitLab : sur demande
 
 ### Sécurité 
 Pour toutes communicatoin sensible, je peux utliser le chiffrement PGP.
