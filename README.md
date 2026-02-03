@@ -27,10 +27,12 @@
 ---
 ### Contact
 Email : k0d4m4.k0d4m4@gmail.com
-GitLab : 
+GitLab : sur demande
 
 ### Sécurité 
 Si besoin pour toutes communicatoin sensible, je peux utliser le chiffrement PGP.
+
 PGP fingerprint : 
 31D9 BEA7 2311 C7FA 32F4  0A8F 67AD 761D D72F FC21
+
 Clé publique sur demande.
